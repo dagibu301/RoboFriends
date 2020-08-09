@@ -1,4 +1,4 @@
-# RoboFriends :rocket:
+# RoboFriends 
 
 ## :rocket: Technologies used
 This project was developed using this technologies:
