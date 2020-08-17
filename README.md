@@ -6,6 +6,7 @@ This project was developed using this technologies:
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
 - [Tachyons](https://tachyons.io/)
 
 ## :computer: Description
